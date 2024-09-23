@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
       <footer class="py-3 fixed-bottom  footer my-1">
         <p class="text-center text-body-secondary">
-          ©Create by <span className="Name">SHANMUGAM R</span>
+          ©Create by <span className="Name">Karthi</span>
         </p>
       </footer>
     </div>
